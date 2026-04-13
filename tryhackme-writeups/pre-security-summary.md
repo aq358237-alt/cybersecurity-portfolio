@@ -1,28 +1,52 @@
-# TryHackMe – Pre Security Path
+# TryHackMe – Pre Security & Cybersecurity 101
 
 ## 📚 Overview
 
-Completed foundational cybersecurity concepts including networking, Linux, and basic security.
+Completed foundational cybersecurity learning paths on TryHackMe, covering essential concepts in networking, operating systems, and security fundamentals.
 
 ---
 
 ## 🧠 Key Learnings
 
-* Basics of networking (IP, DNS, HTTP)
-* Linux commands and file system
-* Introduction to cybersecurity concepts
+### 🔰 Pre Security Path
+
+* Basics of networking (IP, DNS, HTTP/HTTPS)
+* Introduction to Linux and command-line usage
+* Understanding how the internet works
+* Fundamental cybersecurity concepts
 
 ---
 
-## 🛠️ Tools Learned
+### 🛡️ Cybersecurity 101
+
+* Types of cyber threats (phishing, malware, social engineering)
+* CIA Triad (Confidentiality, Integrity, Availability)
+* Basic cryptography concepts
+* Authentication and access control basics
+* Security best practices
+
+---
+
+## 🛠️ Tools & Technologies
 
 * Nmap (basic scanning)
 * Linux CLI
+* Web browsers (for inspecting requests/responses)
 
 ---
 
-## 🎯 Outcome
+## 🎯 Skills Gained
 
-Built a strong foundation for further cybersecurity learning.
+* Basic network understanding
+* System navigation using Linux
+* Identifying common security threats
+* Understanding attack surfaces
 
 ---
+
+## 🚀 Outcome
+
+Built a strong foundation in cybersecurity, preparing for hands-on labs in web security and penetration testing.
+
+---
+
